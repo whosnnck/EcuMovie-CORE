@@ -1,8 +1,7 @@
-# Películas App
-
+# ECU - MOVIE
 ## Descripción
 
-Esta es una aplicación para gestionar información sobre películas. Permite a los usuarios ver una lista de películas, detalles de cada película y realizar acciones como agregar, editar o eliminar películas.
+Como usuario admin se puede gestionar información sobre películas. Permite a los usuarios ver una lista de películas, detalles de cada película y realizar acciones como agregar, editar o eliminar películas.
 
 ## Diseño de Ingeniería
 
