@@ -8,9 +8,6 @@ Esta es una aplicación para gestionar información sobre películas. Permite a 
 
 ### Arquitectura del Sistema
 
-#### Diagrama de Arquitectura
-
-Inserta aquí un diagrama de la arquitectura de tu aplicación, mostrando la relación entre los componentes principales.
 
 ### Componentes Principales
 
